@@ -1,3 +1,3 @@
 # Roma 
-Roma restaurant website
+Roma Italian restaurant website
 by: mhsx.dev
